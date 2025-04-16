@@ -11,7 +11,7 @@
             </div>
 
             <div class="flex  justify-center pt-8">
-              <h1 class="text-3xl font-bold "> RBN company </h1>
+              <h1 class="text-3xl font-bold "> RBN Computers company </h1>
             </div>
         </div>
 
